@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<error>
+ <description>Requested renderer 'aln-clustal' not available for the results of job 'clustalo-R20251118-105230-0947-58212393-p1m'</description>
+</error>
